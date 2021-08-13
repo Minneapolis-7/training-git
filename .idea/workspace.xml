@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:task-1" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94e0ea2b-9618-4733-b2a6-51fbf170da0e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wZcfHmLbr8ecyAyeBAK6IpE754" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94e0ea2b-9618-4733-b2a6-51fbf170da0e" name="Default Changelist" comment="" />
+      <created>1628669652762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628669652762</updated>
+      <workItem from="1628669654094" duration="1183000" />
+      <workItem from="1628672441504" duration="7982000" />
+      <workItem from="1628882489388" duration="2240000" />
+      <workItem from="1628885652642" duration="398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="task-1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="296" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1628882699917">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="418" y="296" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1628882699917" />
+    <state width="875" height="700" key="SwitcherDM" timestamp="1628884942020">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="875" height="700" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1628884942020" />
+    <state x="342" y="127" width="996" height="818" key="find.popup" timestamp="1628673943149">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="342" y="127" width="996" height="818" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1628673943149" />
+    <state x="253" y="23" width="1173" height="1972" key="search.everywhere.popup" timestamp="1628884946262">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="253" y="23" width="1173" height="1972" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1628884946262" />
+  </component>
+</project>
